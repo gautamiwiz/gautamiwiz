@@ -15,7 +15,7 @@
 ---
 
 
-[![GCP GDE](https://github.com/gautamiwiz/gautamiwiz/blob/main/badges/google.svg)](https://g.dev/gautamiwiz)
+[![GCP GDE](https://github.com/gautamiwiz/gautamiwiz/blob/main/badges/google.svg)]([https://g.dev/gautamiwiz](https://developers.google.com/profile/u/gautamiwiz))
 
 
 <img src="https://github.com/gautamiwiz/gautamiwiz/blob/main/images/iwiz-logo.png" width=120 align=left>
