@@ -3,7 +3,11 @@
 <!--
 **gautamiwiz/gautamiwiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-I love frontend development
+ 
+
+
+
+#I love frontend development
 
 ---
 - 🔭 I’m currently working on a master reference project
@@ -12,7 +16,10 @@ I love frontend development
 ---
 
 
+[![GCP GDE](https://github.com/gautamiwiz/gautamiwiz/blob/main/badges/google.svg)](https://g.dev/gautamiwiz)
 
+
+<img src="https://github.com/gautamiwiz/gautamiwiz/blob/main/images/iwiz-logo.png" width=120 align=left>
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
