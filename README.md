@@ -7,9 +7,8 @@
 
 
 
-#I love frontend development
+# I love frontend development
 
----
 - 🔭 I’m currently working on a master reference project
 - 🌱 I’m currently learning css, javascript advanced parts
 - 👯 I’m looking to collaborate on html and css best practices
