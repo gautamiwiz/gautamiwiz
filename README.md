@@ -7,7 +7,7 @@
 
 
 
-# I love frontend development
+# I ❤️ frontend development
 
 - 🔭 I’m currently working on a master reference project
 - 🌱 I’m currently learning **html 5, accessibility, css, javascript** advanced parts
