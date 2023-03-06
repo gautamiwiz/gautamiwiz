@@ -10,8 +10,9 @@
 # I love frontend development
 
 - 🔭 I’m currently working on a master reference project
-- 🌱 I’m currently learning css, javascript advanced parts
+- 🌱 I’m currently learning **html 5, accessibility, css, javascript** advanced parts
 - 👯 I’m looking to collaborate on html and css best practices
+- 🙋🏻 I'm currently on my path to become a **UX Specialist**
 ---
 
 [![GCP GDE](https://github.com/gautamiwiz/gautamiwiz/blob/main/badges/google.svg)](https://developers.google.com/profile/u/gautamiwiz)
